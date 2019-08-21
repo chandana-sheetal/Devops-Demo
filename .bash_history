@@ -136,3 +136,131 @@ git init
 git clone /home/ec2-user/mygit/.git/
 git clone https://github.com/chandana-sheetal/Devops-Demo.git
 exit
+git init
+git add
+git init
+ls
+git add .
+git commit - m 'first commit'
+git push
+git add . https://github.com/chandana-sheetal/Devops-Demo.git
+git add . "https://github.com/chandana-sheetal/Devops-Demo.git"
+git add . https://github.com/chandana-sheetal/Devops-Demo.git
+rm my git
+ls
+rm mygit
+rm -d mygit
+git add . https://github.com/chandana-sheetal/Devops-Demo.git
+git init
+git add .
+ls
+touch .gitignore
+vi .gitignore
+git add --all
+git committ -m 'this is first commit'
+git commit -m 'this is first commit'
+vi .gitignore
+git revert
+git revert --quit
+git commit -m 'first commit'
+git add .
+git add --all
+git commit -m 'first commit'
+git push origin master 
+git remote
+git remote add origin https://github.com/chandana-sheetal/Devops-Demo.git
+git push origin master 
+ls
+api
+cd api
+ls
+exit
+$ ssh-keygen -t rsa -b 4096 -C "css.rajput24@gmail.com"
+npm install
+npm start
+cd Tets
+cd Test
+ls
+npm init
+ls
+npm install -g mocha
+exit
+ls
+cd package.json
+cd devops-demo/
+package.json
+npm test
+cd Test
+ls
+cd package.json
+package.json
+ls
+vi package.json
+cat package.json
+ls
+cat test.controller.js
+cat Test.controller.js
+cd ..
+ls
+cat package.json 
+ls
+cd Test/
+ls
+cat package.json 
+ls
+rm package.json 
+cd ..
+ls
+npm i mocha --save-dev
+cat package.json 
+cd Test/
+ls
+cat Test.controller.js 
+ls
+cd ..
+ls
+vim package.json 
+cat package.json
+npm run Test
+ls
+mv Test/ test
+npm run test
+vi package.json
+cd test
+ls
+vi Test.controller.js
+cat Test.controller.js
+npm run test
+ls
+cat Test.controller.js 
+ls
+touch test2.controller.js
+vi test2.controller.js
+npm run test
+rm test2.controller.js 
+vi test2.controller.js
+cat test2.controller.js
+npm run test
+ls
+rm Test.controller.js 
+npm run test
+ls
+cat test2.controller.js 
+npm run start
+ls
+cd server.js
+pwd
+cd .
+cd ..
+ls
+vi server,js
+ls
+cat serv
+cat server.js 
+pwd
+vi server.js
+cd api
+ls
+vi routes.js
+cd ../
+npm start

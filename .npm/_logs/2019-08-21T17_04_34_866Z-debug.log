@@ -1,0 +1,34 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   '/home/ec2-user/.nvm/versions/node/v12.9.0/bin/node',
+1 verbose cli   '/home/ec2-user/.nvm/versions/node/v12.9.0/bin/npm',
+1 verbose cli   'run',
+1 verbose cli   'Test'
+1 verbose cli ]
+2 info using npm@6.10.2
+3 info using node@v12.9.0
+4 verbose config Skipping project config: /home/ec2-user/.npmrc. (matches userconfig)
+5 verbose stack Error: missing script: Test
+5 verbose stack
+5 verbose stack Did you mean this?
+5 verbose stack     test
+5 verbose stack     at run (/home/ec2-user/.nvm/versions/node/v12.9.0/lib/node_modules/npm/lib/run-script.js:155:19)
+5 verbose stack     at /home/ec2-user/.nvm/versions/node/v12.9.0/lib/node_modules/npm/lib/run-script.js:63:5
+5 verbose stack     at /home/ec2-user/.nvm/versions/node/v12.9.0/lib/node_modules/npm/node_modules/read-package-json/read-json.js:115:5
+5 verbose stack     at /home/ec2-user/.nvm/versions/node/v12.9.0/lib/node_modules/npm/node_modules/read-package-json/read-json.js:418:5
+5 verbose stack     at checkBinReferences_ (/home/ec2-user/.nvm/versions/node/v12.9.0/lib/node_modules/npm/node_modules/read-package-json/read-json.js:373:45)
+5 verbose stack     at final (/home/ec2-user/.nvm/versions/node/v12.9.0/lib/node_modules/npm/node_modules/read-package-json/read-json.js:416:3)
+5 verbose stack     at then (/home/ec2-user/.nvm/versions/node/v12.9.0/lib/node_modules/npm/node_modules/read-package-json/read-json.js:160:5)
+5 verbose stack     at /home/ec2-user/.nvm/versions/node/v12.9.0/lib/node_modules/npm/node_modules/read-package-json/read-json.js:364:12
+5 verbose stack     at /home/ec2-user/.nvm/versions/node/v12.9.0/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:90:16
+5 verbose stack     at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:61:3)
+6 verbose cwd /home/ec2-user
+7 verbose Linux 4.14.123-111.109.amzn2.x86_64
+8 verbose argv "/home/ec2-user/.nvm/versions/node/v12.9.0/bin/node" "/home/ec2-user/.nvm/versions/node/v12.9.0/bin/npm" "run" "Test"
+9 verbose node v12.9.0
+10 verbose npm  v6.10.2
+11 error missing script: Test
+11 error
+11 error Did you mean this?
+11 error     test
+12 verbose exit [ 1, true ]

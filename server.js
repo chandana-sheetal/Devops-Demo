@@ -4,6 +4,7 @@ var port = process.env.PORT || 3000;
 
 var routes = require('./api/routes');
 routes(app);
+app.get('/test/routes' , (req, res) => res.send("hello, world"));
 app.listen(port, function() {
    console.log('Server started on port: ' + port);
 });

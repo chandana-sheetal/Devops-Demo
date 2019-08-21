@@ -12,7 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1566397295,,"wq"
+|2,0,1566409896,,"wq"
+:q
+|2,0,1566408155,,"q"
+:q!
+|2,0,1566408056,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -25,230 +29,283 @@
 # Registers:
 
 # File marks:
-'0  2  11  ~/.gitignore
-|4,48,2,11,1566397295,"~/.gitignore"
-'1  2  12  ~/.gitignore
-|4,49,2,12,1566397180,"~/.gitignore"
-'2  3  96  ~/service/distance.js
-|4,50,3,96,1566336849,"~/service/distance.js"
-'3  1  0  ~/api/routes.js
-|4,51,1,0,1566336849,"~/api/routes.js"
-'4  24  25  ~/service/distance.js
-|4,52,24,25,1566334832,"~/service/distance.js"
-'5  1  0  ~/service/distance.js
-|4,53,1,0,1566334731,"~/service/distance.js"
-'6  1  0  ~/service/distance.js
-|4,54,1,0,1566334731,"~/service/distance.js"
-'7  1  0  ~/service/distance.js
-|4,55,1,0,1566334708,"~/service/distance.js"
-'8  1  0  ~/service/distance.js
-|4,56,1,0,1566334708,"~/service/distance.js"
-'9  23  28  ~/api/controller.js
-|4,57,23,28,1566334051,"~/api/controller.js"
+'0  3  34  ~/server.js
+|4,48,3,34,1566409896,"~/server.js"
+'1  3  34  ~/server.js
+|4,49,3,34,1566409841,"~/server.js"
+'2  7  64  ~/server.js
+|4,50,7,64,1566409807,"~/server.js"
+'3  7  64  ~/server.js
+|4,51,7,64,1566409807,"~/server.js"
+'4  7  64  ~/server.js
+|4,52,7,64,1566409807,"~/server.js"
+'5  7  64  ~/server.js
+|4,53,7,64,1566409807,"~/server.js"
+'6  7  64  ~/server.js
+|4,54,7,64,1566409610,"~/server.js"
+'7  7  64  ~/server.js
+|4,55,7,64,1566409610,"~/server.js"
+'8  7  64  ~/server.js
+|4,56,7,64,1566409610,"~/server.js"
+'9  7  64  ~/server.js
+|4,57,7,64,1566409610,"~/server.js"
 
 # Jumplist (newest first):
--'  2  11  ~/.gitignore
-|4,39,2,11,1566397295,"~/.gitignore"
--'  2  12  ~/.gitignore
-|4,39,2,12,1566397180,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1566397124,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1566397124,"~/.gitignore"
--'  3  96  ~/service/distance.js
-|4,39,3,96,1566336849,"~/service/distance.js"
+-'  3  34  ~/server.js
+|4,39,3,34,1566409896,"~/server.js"
+-'  3  34  ~/server.js
+|4,39,3,34,1566409841,"~/server.js"
+-'  7  64  ~/server.js
+|4,39,7,64,1566409837,"~/server.js"
+-'  7  64  ~/server.js
+|4,39,7,64,1566409837,"~/server.js"
+-'  7  64  ~/server.js
+|4,39,7,64,1566409807,"~/server.js"
+-'  7  64  ~/server.js
+|4,39,7,64,1566409610,"~/server.js"
+-'  10  2  ~/server.js
+|4,39,10,2,1566409499,"~/server.js"
+-'  10  2  ~/server.js
+|4,39,10,2,1566409499,"~/server.js"
+-'  10  2  ~/server.js
+|4,39,10,2,1566409499,"~/server.js"
+-'  10  2  ~/server.js
+|4,39,10,2,1566409499,"~/server.js"
 -'  1  0  ~/api/routes.js
-|4,39,1,0,1566336849,"~/api/routes.js"
--'  3  96  ~/service/distance.js
-|4,39,3,96,1566336849,"~/service/distance.js"
+|4,39,1,0,1566408155,"~/api/routes.js"
 -'  1  0  ~/api/routes.js
-|4,39,1,0,1566336849,"~/api/routes.js"
--'  3  96  ~/service/distance.js
-|4,39,3,96,1566336849,"~/service/distance.js"
+|4,39,1,0,1566408155,"~/api/routes.js"
 -'  1  0  ~/api/routes.js
-|4,39,1,0,1566336849,"~/api/routes.js"
--'  3  96  ~/service/distance.js
-|4,39,3,96,1566336849,"~/service/distance.js"
+|4,39,1,0,1566408155,"~/api/routes.js"
 -'  1  0  ~/api/routes.js
-|4,39,1,0,1566336849,"~/api/routes.js"
--'  24  25  ~/service/distance.js
-|4,39,24,25,1566334832,"~/service/distance.js"
--'  24  25  ~/service/distance.js
-|4,39,24,25,1566334832,"~/service/distance.js"
--'  24  25  ~/service/distance.js
-|4,39,24,25,1566334832,"~/service/distance.js"
--'  24  25  ~/service/distance.js
-|4,39,24,25,1566334832,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334756,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334756,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334756,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334756,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334731,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334731,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334731,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334731,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334708,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334708,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334708,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334708,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334647,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334647,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334647,"~/service/distance.js"
--'  1  0  ~/service/distance.js
-|4,39,1,0,1566334647,"~/service/distance.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  23  28  ~/api/controller.js
-|4,39,23,28,1566334051,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
--'  1  0  ~/api/controller.js
-|4,39,1,0,1566334028,"~/api/controller.js"
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  1  0  ~/api/routes.js
+|4,39,1,0,1566408155,"~/api/routes.js"
+-'  9  2  ~/server.js
+|4,39,9,2,1566408122,"~/server.js"
+-'  9  2  ~/server.js
+|4,39,9,2,1566408122,"~/server.js"
+-'  9  2  ~/server.js
+|4,39,9,2,1566408122,"~/server.js"
+-'  9  2  ~/server.js
+|4,39,9,2,1566408122,"~/server.js"
+-'  9  2  ~/server.js
+|4,39,9,2,1566408122,"~/server.js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  1  0  ~/server,js
+|4,39,1,0,1566408056,"~/server,js"
+-'  8  2  ~/test/test2.controller.js
+|4,39,8,2,1566407693,"~/test/test2.controller.js"
+-'  8  2  ~/test/test2.controller.js
+|4,39,8,2,1566407693,"~/test/test2.controller.js"
+-'  8  2  ~/test/test2.controller.js
+|4,39,8,2,1566407693,"~/test/test2.controller.js"
+-'  8  2  ~/test/test2.controller.js
+|4,39,8,2,1566407693,"~/test/test2.controller.js"
+-'  8  2  ~/test/test2.controller.js
+|4,39,8,2,1566407693,"~/test/test2.controller.js"
 
 # History of marks within files (newest to oldest):
+
+> ~/server.js
+	*	1566409895	0
+	"	3	34
+	^	3	35
+	.	3	34
+	+	10	3
+	+	8	0
+	+	3	34
+
+> ~/api/routes.js
+	*	1566408154	0
+	"	1	0
+
+> ~/server,js
+	*	1566408054	0
+	"	1	0
+
+> ~/test/test2.controller.js
+	*	1566407687	0
+	"	8	2
+	^	8	3
+	.	8	2
+	+	8	2
+
+> ~/test/Test.controller.js
+	*	1566407500	0
+	"	5	41
+	^	5	42
+	.	6	0
+	+	7	0
+	+	3	19
+	+	4	50
+	+	5	40
+	+	6	0
+
+> ~/package.json
+	*	1566407237	0
+	"	7	10
+	^	7	11
+	.	7	12
+	+	7	12
+
+> ~/Test/package.json
+	*	1566406750	0
+	"	1	0
+
+> ~/Test/Test.controller.js
+	*	1566401232	0
+	"	8	2
+	^	8	3
+	.	8	2
+	+	8	2
 
 > ~/.gitignore
 	*	1566397293	0
@@ -270,14 +327,3 @@
 	^	23	29
 	.	23	28
 	+	23	28
-
-> ~/api/routes.js
-	*	1566333712	0
-	"	1	0
-
-> ~/server.js
-	*	1566333669	0
-	"	9	2
-	^	9	3
-	.	9	3
-	+	9	3
