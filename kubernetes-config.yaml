@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: devops
-        image: peaceful_knuth/devops:latest
+        image: gcr.io/noble-safeguard-250717/devops:v0.1
         ports:
         - containerPort: 8080
 ---
