@@ -14,7 +14,7 @@
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   },
   "directories": {
     "test": "test"
